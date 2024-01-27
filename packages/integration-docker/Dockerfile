@@ -1,4 +1,4 @@
-FROM alpine
+FROM alpine:3.19.1
 EXPOSE 80 443
 COPY {{BUILD_FOLDER}} /var/www/localhost/htdocs
 RUN apk add nginx && \
