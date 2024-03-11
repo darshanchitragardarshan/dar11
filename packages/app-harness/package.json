@@ -31,7 +31,7 @@
     },
     "dependencies": {
         "@lightningjs/sdk": "^5.4.1",
-        "@react-native-community/cli": "^11.3.8",
+        "@react-native-community/cli": "^13.5.2",
         "@rnv/renative": "1.0.0-canary.9",
         "next": "13.5.2",
         "raf": "3.4.1",
