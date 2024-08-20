@@ -29,7 +29,7 @@
         "watch": "tsc --watch --preserveWatchOutput"
     },
     "dependencies": {
-        "@react-native/metro-babel-transformer": "^0.74.0",
+        "@react-native/metro-babel-transformer": "^0.74.1",
         "shell-quote": "1.8.1"
     },
     "peerDependencies": {
