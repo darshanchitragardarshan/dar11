@@ -44,7 +44,7 @@
         "netcat": "1.4.0",
         "node-machine-id": "^1.1.12",
         "resolve": "^1.0.0",
-        "rimraf": "2.6.2",
+        "rimraf": "4.3.1",
         "semver": "^7.5.3",
         "shelljs": "0.8.5",
         "source-map-support": "0.5.13",
