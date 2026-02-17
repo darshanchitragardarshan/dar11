@@ -30,7 +30,7 @@
         "watch": "tsc --watch --preserveWatchOutput"
     },
     "dependencies": {
-        "@pmmmwh/react-refresh-webpack-plugin": "^0.5.3",
+        "@pmmmwh/react-refresh-webpack-plugin": "^0.5.15",
         "@rnv/sdk-utils": "1.0.0-feat-pin-cli.6",
         "@svgr/webpack": "6.3.1",
         "axios": "1.6.0",
@@ -69,7 +69,7 @@
         "tailwindcss": "^3.0.2",
         "terser-webpack-plugin": "^5.2.5",
         "web-vitals": "^2.1.4",
-        "webpack": "^5.64.4",
+        "webpack": "^5.98.0",
         "webpack-cli": "4.9.2",
         "webpack-dev-server": "^4.7.4",
         "webpack-manifest-plugin": "^4.0.2",
